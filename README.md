@@ -1,4 +1,4 @@
-# Simple DHCP Practical - Cisco Packet Tracer Lab
+# Simple DHCP - Cisco Packet Tracer Lab
 This repository contains a Cisco Packet Tracer simulation file (`DHCP-Practical.pkt`) that demonstrates how to configure and test **Dynamic Host Configuration Protocol (DHCP)** in a small network.
 ---
 ## 📂 File Included
