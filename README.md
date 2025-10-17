@@ -12,11 +12,14 @@ In this lab:
 ---
 ## ⚙️ Steps to Run
 1. Download and install **Cisco Packet Tracer** (version 8.0 or later recommended).
+
 2. Clone this repository or download the `.pkt` file directly.
    ```bash
    git clone https://github.com/<your-username>/<your-repo>.git
 or simply click Download ZIP.
+
 3. Open DHCP-Practical.pkt in Packet Tracer.
+
 4. Run the simulation and verify:
 PCs receive IP addresses automatically.
 DHCP leases are assigned properly.
